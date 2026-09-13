@@ -50,3 +50,23 @@ This repository contains the firmware, control interface scripts, schematics, an
 1. **Clone this repository:**
    ```bash
    git clone [https://github.com/MuhammadHarisMasoom/pic32-5kw-dc-power-supply.git](https://github.com/MuhammadHarisMasoom/pic32-5kw-dc-power-supply.git)
+2. **Open MPLAB X IDE.**
+3. **Go to File > Open Project and navigate to the firmware/ folder.**
+4. **Select your target PIC32 device variant in the project properties.**
+5. **Click Clean and Build Project (Shift + F11).**
+6. **Connect your programmer/debugger and click Make and Program Device.**
+
+
+
+
+
+👨‍💻 Author
+
+Muhammad Haris Masoom
+
+Embedded Systems Engineer
+
+[LinkedIn](https://www.linkedin.com/in/muhammadharismasoom)
+
+[GitHub](https://github.com/MuhammadHarisMasoom)
+
