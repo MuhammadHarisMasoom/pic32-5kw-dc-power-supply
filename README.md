@@ -56,9 +56,7 @@ This repository contains the firmware, control interface scripts, schematics, an
 5. **Click Clean and Build Project (Shift + F11).**
 6. **Connect your programmer/debugger and click Make and Program Device.**
 
-
-
-
+---
 
 👨‍💻 Author
 
