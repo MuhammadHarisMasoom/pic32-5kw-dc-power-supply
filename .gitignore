@@ -1,0 +1,35 @@
+# ==========================================
+# MPLAB X & XC32 Compiler Artifacts
+# ==========================================
+build/
+dist/
+**/nbproject/private/
+**/nbproject/Makefile-local-*
+**/queuelogs/
+**/.generated_files/
+*.log
+*.log.*
+*.o
+*.elf
+*.hex
+*.d
+*.p1
+*.pre
+*.o.d
+
+# ==========================================
+# Python Desktop GUI & PyCharm Caches
+# ==========================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+ENV/
+**/.idea/
+
+# ==========================================
+# Operating System Caches
+# ==========================================
+Thumbs.db
+.DS_Store

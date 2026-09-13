@@ -1,0 +1,5 @@
+1000 ---> ON/OFF
+1500 ---> RESET
+2000 ---> Voltage Keypad
+3000 ---> Current Keypad
+4000 ---> Fan Speed
